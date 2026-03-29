@@ -107,4 +107,8 @@ ai-agents
 security  
 risk-analysis  
 trust  
-verification  
+verification 
+
+## Metadata
+
+Last updated: 2026-03-29
